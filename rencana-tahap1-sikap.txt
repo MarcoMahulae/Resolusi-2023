@@ -1,4 +1,6 @@
 Rencana Tahap 1 => Sikap
 - Religius
+  * Internal
+  * Eksternal
 - Sopan
 - Berbudi Luhur
