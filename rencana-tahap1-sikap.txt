@@ -4,3 +4,4 @@ Rencana Tahap 1 => Sikap
   * Eksternal
 - Sopan
 - Berbudi Luhur
+- Bijak
